@@ -5,3 +5,5 @@ openai
 python-dotenv 
 numpy
 langchain
+langchain-community
+tiktoken
